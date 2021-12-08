@@ -32,6 +32,9 @@ Solutions for SQL challenges on HackerRank executed using MS SQL
 | **Challenges**  | **Solutions** | 
 | --------------- |:-------------:| 
 | [Population Census](https://www.hackerrank.com/challenges/asian-population/problem)    | [MS SQL](https://github.com/dalal1690/HackerRank-SQL-Challenges-Solutions-/blob/main/Basic%20Join/Population%20Census.sql)| 
+| [African Cities](https://www.hackerrank.com/challenges/african-cities/problem)    | [MS SQL](https://github.com/dalal1690/HackerRank-SQL-Challenges-Solutions-/blob/main/Basic%20Join/African%20Cities.sql)| 
+| [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem)    | [MS SQL](https://github.com/dalal1690/HackerRank-SQL-Challenges-Solutions-/blob/main/Basic%20Join/Average%20Population%20of%20Each%20Continent.sql)| 
+
 
 ## Reference
 
