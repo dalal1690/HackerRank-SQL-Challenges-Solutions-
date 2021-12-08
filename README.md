@@ -25,7 +25,13 @@ Solutions for SQL challenges on HackerRank executed using MS SQL
 | [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem)  | [MS SQL](https://github.com/dalal1690/HackerRank-SQL-Challenges-Solutions-/blob/main/Basic%20Select/Weather%20Observation%20Station%2012.sql) | 
 | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem)                        | [MS SQL](https://github.com/dalal1690/HackerRank-SQL-Challenges-Solutions-/blob/main/Basic%20Select/Higher%20Than%2075%20Marks.sql) | 
 | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem)                               | [MS SQL](https://github.com/dalal1690/HackerRank-SQL-Challenges-Solutions-/blob/main/Basic%20Select/Employee%20Names.sql) | 
-| [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem)                          | [MS SQL](https://github.com/dalal1690/HackerRank-SQL-Challenges-Solutions-/blob/main/Basic%20Select/Employee%20Salary.sql) | 
+| [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem)                          | [MS SQL](https://github.com/dalal1690/HackerRank-SQL-Challenges-Solutions-/blob/main/Basic%20Select/Employee%20Salary.sql) |
+
+## Basic Join Challenges
+
+| **Challenges**  | **Solutions** | 
+| --------------- |:-------------:| 
+| [Population Census](https://www.hackerrank.com/challenges/asian-population/problem)    | [MS SQL](https://github.com/dalal1690/HackerRank-SQL-Challenges-Solutions-/blob/main/Basic%20Join/Population%20Census.sql)| 
 
 ## Reference
 
