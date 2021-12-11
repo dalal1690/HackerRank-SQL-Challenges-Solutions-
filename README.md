@@ -1,5 +1,5 @@
-# HackerRank-SQL-Challenges-Solutions
-Solutions for SQL challenges on HackerRank executed using MS SQL
+# SQL-Challenges-Solutions
+Solutions for different SQL challenges using MS SQL
 
 ## Basic Select Challenges
 
@@ -34,9 +34,10 @@ Solutions for SQL challenges on HackerRank executed using MS SQL
 | [Population Census](https://www.hackerrank.com/challenges/asian-population/problem)    | [MS SQL](https://github.com/dalal1690/HackerRank-SQL-Challenges-Solutions-/blob/main/Basic%20Join/Population%20Census.sql)| 
 | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem)    | [MS SQL](https://github.com/dalal1690/HackerRank-SQL-Challenges-Solutions-/blob/main/Basic%20Join/African%20Cities.sql)| 
 | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem)    | [MS SQL](https://github.com/dalal1690/HackerRank-SQL-Challenges-Solutions-/blob/main/Basic%20Join/Average%20Population%20of%20Each%20Continent.sql)| 
-
+| [Customer and Salesman](https://www.w3resource.com/sql-exercises/sql-joins-exercises.php)    | [MS SQL](https://github.com/dalal1690/SQL-Challenges/blob/main/Basic%20Join/Customer%20and%20Salesman.sql)| 
 
 ## Reference
 
 - https://www.w3schools.com/sql/
+- https://learnsql.com/blog/sql-joins-made-easy/
 
